@@ -34,7 +34,7 @@ if category == 'Home':
     with st.container():
         image_col, text_col = st.columns([1,2])
         with image_col:
-            st.image('tk.jpg', width=200)
+            st.image('tk.png', width=200)
         with text_col:
             st.markdown("""**Compare your digital readiness to your peers.**
             To unlock your digital agenda, you need a clear vision of where you are starting from. 
